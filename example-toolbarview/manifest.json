@@ -1,0 +1,11 @@
+{
+  "addons":[
+    {
+      "mod_version":"3",
+      "type":"plugin",
+      "id":"toolbar",
+      "name":"toolbar",
+      "version":"0.1"
+    }
+  ]
+}

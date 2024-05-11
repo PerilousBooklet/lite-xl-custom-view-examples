@@ -1,0 +1,9 @@
+
+.icon-git-branch-16:before { content: '\e800'; } /* '' */
+.icon-git-commit-16:before { content: '\e801'; } /* '' */
+.icon-git-compare-16:before { content: '\e802'; } /* '' */
+.icon-git-merge-16:before { content: '\e803'; } /* '' */
+.icon-git-merge-queue-16:before { content: '\e804'; } /* '' */
+.icon-git-pull-request-16:before { content: '\e805'; } /* '' */
+.icon-git-pull-request-closed-16:before { content: '\e806'; } /* '' */
+.icon-git-pull-request-draft-16:before { content: '\e807'; } /* '' */
